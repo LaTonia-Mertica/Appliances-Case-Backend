@@ -1,4 +1,4 @@
-# Appliances-Case-Backend
+# Appliances Case Backend
 
 ###### <a href="https://www.latoniamertica.dev/Appliances-Case-Frontend/#/" target="_blank">visit Appliances Case Frontend Powered by This Backend by La'Tonia Mertica</a>
 <br>
