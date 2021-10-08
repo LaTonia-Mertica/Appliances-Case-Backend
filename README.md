@@ -1,7 +1,7 @@
 # Appliances Case Backend
 
 ###### <a href="https://www.latoniamertica.dev/Appliances-Case-Frontend/#/" target="_blank">visit Appliances Case Frontend Powered by This Backend by La'Tonia Mertica</a>
-###### <a href="https://github.com/LaTonia-Mertica/Appliances-Case-Backend/blob/main/appliancescasewriteup.pdf" target="_blank">writeup to fictitious small appliances repair shop owner re: ERD by La'Tonia Mertica</a>
+###### <a href="https://github.com/LaTonia-Mertica/Appliances-Case-Backend/blob/main/appliancescasewriteup.pdf" target="_blank">fictitious small appliances repair shop owner note re: ERD by La'Tonia Mertica</a>
 <br>
 
 ##### FIRST NAME: La'Tonia Mertica
