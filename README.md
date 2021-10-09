@@ -8,9 +8,10 @@
 - GET aka server.get() adds pagination<br>
 - POST aka server.post() **a)** requires zip code length, **b)** allows global search (Op.or with Op.iLike), and **c)** checks database to ensure email and password are known and returns errors when they are not<br>
 - process.env.PORT dynamically implements port and defaults to port 3001 as backup<br>
-- server.listen() displays confirmaton port is running and where (note: server.js is per what name the file that contains this backend code - i.e. same as app.js) 
+- server.listen() displays confirmaton port is running and where<br>
+- note: server.js is per what name the file that contains this backend code - i.e. same as app.js
 
-**NEXT STEP**
+**NEXT STEP** <br>
 accept new/different users through login ... not simply pre-set Testy McTesterson
 
 ###### <a href="https://www.latoniamertica.dev/Appliances-Case-Frontend/#/" target="_blank">visit Appliances Case Frontend Powered by This Backend by La'Tonia Mertica</a>
