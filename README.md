@@ -2,7 +2,7 @@
 *part of full stack project using express, body-parser, cors, middleware, sequelize, models, endpoints and process.env.PORT for dynamic port with port 3001 backup ... required modest work in package.json (i.e. add engines)*
 <br>
 
-**HOW WORKS**
+**HOW WORKS** <br>
 - models manage user-inputted content - database aka db, Customers, and User (both capitalized per React App components)<br>
 - middleware implements async/await with if/else statements to authenticate email and password with error return as backup<br>
 - GET aka server.get() adds pagination<br>
