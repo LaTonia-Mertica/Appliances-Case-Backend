@@ -1,8 +1,8 @@
 # Appliances Case Backend
 *part of full stack project using express, body-parser, cors, middleware, sequelize, models, endpoints and process.env.PORT for dynamic port with port 3001 backup ... required modest work in package.json (i.e. add engines)*
 <br>
-
-**HOW WORKS** <br>
+<br>
+**HOW WORKS**
 - models manage user-inputted content - database aka db, Customers, and User (both capitalized per React App components)<br>
 - middleware implements async/await with if/else statements to authenticate email and password with error return as backup<br>
 - GET aka server.get() adds pagination<br>
@@ -13,6 +13,7 @@
 
 **NEXT STEP** <br>
 accept new/different users through login ... not simply pre-set Testy McTesterson
+<br>
 
 ###### <a href="https://www.latoniamertica.dev/Appliances-Case-Frontend/#/" target="_blank">visit Appliances Case Frontend Powered by This Backend by La'Tonia Mertica</a>
 
