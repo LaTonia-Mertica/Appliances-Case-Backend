@@ -12,8 +12,8 @@
 - note: server.js is per what name the file that contains this backend code - i.e. same as app.js
 
 **NEXT STEP** <br>
-accept new/different users through login ... not simply pre-set Testy McTesterson
-<br>
+1. accept new/different users through login ... not simply pre-set Testy McTesterson
+2. retain/add to db added customers with option to edit/delete
 
 ###### <a href="https://www.latoniamertica.dev/Appliances-Case-Frontend/#/" target="_blank">visit Appliances Case Frontend Powered by This Backend by La'Tonia Mertica</a>
 
